@@ -1,7 +1,7 @@
 # XSS MasterLab: Cross-Site Scripting Vulnerability Simulator  
 
-![XSS MasterLab Banner](https://via.placeholder.com/1200x400?text=XSS+MasterLab+Banner+Image)  
-*Replace with your actual banner image*
+![XSS MasterLab Banner](Screenshot 2025-06-13 at 00-17-44 XSS Lab.png)  
+
 
 ## Overview  
 **XSS MasterLab** is a comprehensive educational platform designed for cybersecurity professionals, developers, and students to safely study, demonstrate, and understand Cross-Site Scripting (XSS) vulnerabilities in a controlled environment. This intentionally vulnerable web application simulates real-world scenarios to teach offensive security techniques and defensive countermeasures.
