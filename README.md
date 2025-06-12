@@ -1,6 +1,6 @@
 # XSS MasterLab: Cross-Site Scripting Vulnerability Simulator  
 
-![XSS MasterLab Banner](Screenshot 2025-06-13 at 00-17-44 XSS Lab.png)  
+![XSS MasterLab Banner](https://via.placeholder.com/1200x400?text=ss.png)  
 
 
 ## Overview  
